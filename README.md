@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/puppyraeluna?tab=repositories](https://github.com/puppyraeluna?tab=repositories)
 
-- 📫 How to reach me **puppyrae.official@gmail.com**
+- 📫 How to reach me **puppy.raeluna@proton.me**
 
 - ⚡ Fun fact **I'm obsessed with Scooby-Doo.**
 
