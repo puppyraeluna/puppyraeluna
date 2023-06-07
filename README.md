@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/puppyraeluna" target="blank"><img src="https://img.shields.io/twitter/follow/puppyraeluna?logo=twitter&style=for-the-badge" alt="puppyraeluna" /></a> </p>
 
-- 🔭 I’m currently working on [RaeLuna Pack, a resource pack for Minecraft Java Edition.](https://github.com/puppyraeluna/raelunapack)
+- 🔭 I’m the creator of [Blu-RAE, a resource pack for Minecraft Java Edition.](https://github.com/puppyraeluna/blurae)
 
 - 👨‍💻 All of my projects are available at [https://github.com/puppyraeluna?tab=repositories](https://github.com/puppyraeluna?tab=repositories)
 
