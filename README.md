@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Puppy RaeLuna</h1>
-<h3 align="center">A Minecraft Gamer and Content Creator exploring Resource Pack creations.</h3>
-
-<p align="left"> <a href="https://twitter.com/puppyraeluna" target="blank"><img src="https://img.shields.io/twitter/follow/puppyraeluna?logo=twitter&style=for-the-badge" alt="puppyraeluna" /></a> </p>
+<h1 align="center">Hi 👋, I'm puppyRaeLuna</h1>
+<h3 align="center">A Minecraft Gamer and Resource Pack Creator.</h3>
 
 - 🔭 I’m the creator of [Blu-RAE, a resource pack for Minecraft Java Edition.](https://github.com/puppyraeluna/blurae)
 
